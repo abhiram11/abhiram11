@@ -56,13 +56,13 @@
 ➡️ [more videos...](https://www.youtube.com/channel/UCfk8qjnhHsVTuygD9fwlx7g)
 
 
-<!-- <p align='center'> -->
+<p align='center'>
   ![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=abhiram11&repo=abhiram11countColorcountColor&countColor=%237B1E7A)
 
 <!-- [![Visits Badge](https://badges.pufler.dev/visits//abhiram11/abhiram11)](https://badges.pufler.dev) -->
 <!-- ![Visitor Count](https://profile-counter.glitch.me/abhiram11/count.svg) -->
 <!--   <a href="#"><img src="https://badges.pufler.dev/visits/abhiram11/abhiram11"></a> -->
-<!-- </p> -->
+</p>
 
 <!--
 **abhiram11/abhiram11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
