@@ -56,10 +56,10 @@
 ➡️ [more videos...](https://www.youtube.com/channel/UCfk8qjnhHsVTuygD9fwlx7g)
 
 
-<p align='center'>
-  [Visitor Count](https://profile-counter.glitch.me/abhiram11/count.svg)
+<!-- <p align='center'> -->
+![Visitor Count](https://profile-counter.glitch.me/abhiram11/count.svg)
 <!--   <a href="#"><img src="https://badges.pufler.dev/visits/abhiram11/abhiram11"></a> -->
-</p>
+<!-- </p> -->
 
 <!--
 **abhiram11/abhiram11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
