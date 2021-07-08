@@ -26,18 +26,18 @@
 <br/>
 <br/>
 <h2 align='center'>
-  Sharing, whatever I learn at - The Indian Dev
+  Sharing, whatever I learn, on these platforms -
 </h2>
 <p align='center'>
-  <a href="https://instagram.com/theindiandev" target="_blank">
+<!--   <a href="https://instagram.com/theindiandev" target="_blank">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>&nbsp;&nbsp;
-  
-  <a href="https://facebook.com/TheIndianDev" target="_blank">
+   -->
+<!--   <a href="https://facebook.com/TheIndianDev" target="_blank">
     <img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />        
   </a>&nbsp;&nbsp;
-  
-  <a href="https://www.youtube.com/channel/UCbaR6YYn5VGXrR5_f-4tNsA" target="_blank">
+   -->
+  <a href="https://www.youtube.com/channel/UCfk8qjnhHsVTuygD9fwlx7g" target="_blank">
     <img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" />        
   </a>&nbsp;&nbsp;
   
@@ -53,11 +53,11 @@
 - [Build a Recipe App With React | React Recipe Finder | Demo Video](https://www.youtube.com/watch?v=CZlA6CMKhys)
 <!-- YOUTUBE:END -->
 
-➡️ [more videos...](https://www.youtube.com/channel/UCbaR6YYn5VGXrR5_f-4tNsA)
+➡️ [more videos...](https://www.youtube.com/channel/UCfk8qjnhHsVTuygD9fwlx7g)
 
 
 <p align='center'>
-  <a href="#"><img src="https://badges.pufler.dev/visits/ayushkul/ayushkul"></a>
+  <a href="#"><img src="https://badges.pufler.dev/visits/abhiram11/abhiram11"></a>
 </p>
 
 <!--
