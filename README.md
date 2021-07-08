@@ -57,7 +57,8 @@
 
 
 <p align='center'>
-  <a href="#"><img src="https://badges.pufler.dev/visits/abhiram11/abhiram11"></a>
+  ![Visitor Count](https://profile-counter.glitch.me/abhiram11/count.svg)
+<!--   <a href="#"><img src="https://badges.pufler.dev/visits/abhiram11/abhiram11"></a> -->
 </p>
 
 <!--
