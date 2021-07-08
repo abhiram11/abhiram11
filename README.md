@@ -57,8 +57,8 @@
 
 
 <!-- <p align='center'> -->
-[![Visits Badge](https://badges.pufler.dev/visits/puf17640/git-badges)](https://badges.pufler.dev)
-![Visitor Count](https://profile-counter.glitch.me/abhiram11/count.svg)
+[![Visits Badge](https://badges.pufler.dev/visits/abhiram11/abhiram11)](https://badges.pufler.dev)
+<!-- ![Visitor Count](https://profile-counter.glitch.me/abhiram11/count.svg) -->
 <!--   <a href="#"><img src="https://badges.pufler.dev/visits/abhiram11/abhiram11"></a> -->
 <!-- </p> -->
 
