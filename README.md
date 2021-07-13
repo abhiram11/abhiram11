@@ -33,7 +33,9 @@
   <a href="https://www.youtube.com/channel/UCfk8qjnhHsVTuygD9fwlx7g" target="_blank">
     <img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" />        
   </a>&nbsp;&nbsp;
-  
+  <a href="https://github.com/abhiram11" target="_blank">
+    <img src="https://img.shields.io/badge/Github-grey.svg?&style=for-the-badge&logo=github&logoColor=white" />        
+  </a>&nbsp;&nbsp;
 </p>
 
 ### 📺 Latest YouTube Videos
