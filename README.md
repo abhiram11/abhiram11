@@ -21,7 +21,7 @@
   
 </p>
 <p align='center'>
-  <a href="#"><img src="https://abhiram11.github.io/images/name-sketch-crop.gif" width="180"></a>
+  <a href="#"><img src="https://abhiram11.github.io/images/name-sketch-crop.gif" width="185"></a>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=abhiram11&show_icons=true&count_private=true&theme=dark" width="350"></a>
   <a href="#"><img src="https://media.giphy.com/media/62PP2yEIAZF6g/giphy.gif" width="241"></a>
 </p>
