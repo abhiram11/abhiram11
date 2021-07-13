@@ -5,7 +5,7 @@
 </h1>
 <p align='center'>
   Experienced Data Scientist and a budding Fullstack Developer! 🚀
-</p>
+</p><br><br>
 <p align='center'>
  
   <a href="https://www.linkedin.com/in/abhiram-satpute/" target="_blank">
