@@ -5,7 +5,7 @@
 </h1>
 <p align='center'>
   Experienced Data Scientist and a budding Fullstack Developer! 🚀
-</p><br><br>
+</p><br>
 <p align='center'>
  
   <a href="https://www.linkedin.com/in/abhiram-satpute/" target="_blank">
@@ -18,7 +18,7 @@
   <a href="https://twitter.com/abhiram_satpute" target="_blank">
     <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />        
   </a>&nbsp;&nbsp;
-  
+  <br>
 </p>
 <p align='center'>
   <a href="#"><img src="https://abhiram11.github.io/images/name-sketch-crop.gif" width="185"></a>
