@@ -18,8 +18,9 @@
   <a href="https://twitter.com/abhiram_satpute" target="_blank">
     <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />        
   </a>&nbsp;&nbsp;
-  <br>
+  
 </p>
+<br>
 <p align='center'>
   <a href="#"><img src="https://abhiram11.github.io/images/name-sketch-crop.gif" width="185"></a>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=abhiram11&show_icons=true&count_private=true&theme=dark" width="350"></a>
