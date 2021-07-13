@@ -11,7 +11,7 @@
   <a href="https://www.linkedin.com/in/abhiram-satpute/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="https://stackoverflow.com/users/8185479/abhiram-satput%c3%a9"><img src="https://stackoverflow.com/users/flair/8185479.png?theme=dark" width="208" height="58" alt="profile for Abhiram Satput&#233; at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Abhiram Satput&#233; at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>&nbsp;&nbsp;
+  <a href="https://stackoverflow.com/users/8185479/abhiram-satput%c3%a9"><img src="https://stackoverflow.com/users/flair/8185479.png?theme=dark" width="208" height="58" alt="profile for Abhiram Satput&#233; at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="More than 64K+ Profiles Reached as well!"></a>&nbsp;&nbsp;
 <!--   <a href="https://stackoverflow.com/users/8185479/abhiram-satput%c3%a9" target="_blank">
     <img src="https://img.shields.io/badge/stackoverflow />        
   </a>&nbsp;&nbsp; -->
@@ -30,14 +30,6 @@
   Sharing, whatever I learn, on these platforms -
 </h2>
 <p align='center'>
-<!--   <a href="https://instagram.com/theindiandev" target="_blank">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
-  </a>&nbsp;&nbsp;
-   -->
-<!--   <a href="https://facebook.com/TheIndianDev" target="_blank">
-    <img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />        
-  </a>&nbsp;&nbsp;
-   -->
   <a href="https://www.youtube.com/channel/UCfk8qjnhHsVTuygD9fwlx7g" target="_blank">
     <img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" />        
   </a>&nbsp;&nbsp;
