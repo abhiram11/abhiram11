@@ -5,9 +5,9 @@
 </h1>
 <p align='center'>
   Experienced Data Scientist and a budding Fullstack Developer! 🚀
-</p><br>
+</p>
 <p align='center'>
-  Since 2016, I have been uploading projects on Data Science, ReactJS, React Native, Game Development, and many more here!👨‍💻👨🏽‍🔬🕸📲🎮
+  Since 2016, I have been uploading projects on Data Science, Full Stack, Game Development, and many more here!👨‍💻👨🏽‍🔬🕸📲🎮
 </p><br>
 
 <p align='center'>
