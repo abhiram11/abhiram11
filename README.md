@@ -7,6 +7,10 @@
   Experienced Data Scientist and a budding Fullstack Developer! 🚀
 </p><br>
 <p align='center'>
+  Since 2016, I have been uploading projects on Data Science, ReactJS, React Native, Game Development, and many more here!👨‍💻👨🏽‍🔬🕸📲🎮
+</p><br>
+
+<p align='center'>
  
   <a href="https://www.linkedin.com/in/abhiram-satpute/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
