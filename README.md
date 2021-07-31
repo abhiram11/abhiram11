@@ -7,7 +7,7 @@
   Experienced Data Scientist and a budding Fullstack Developer! 🚀
 </p>
 <p align='center'>
-  Since 2016, I have been uploading projects on Data Science, Full Stack, Game Development, and many more here!👨‍💻👨🏽‍🔬🕸📲🎮
+  Since 2016, I've been uploading Data Science, Full Stack, Game Dev, and many more projects here!👨‍💻👨🏽‍🔬🕸📲🎮
 </p><br>
 
 <p align='center'>
