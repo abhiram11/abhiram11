@@ -15,7 +15,7 @@
   <a href="https://www.linkedin.com/in/abhiram-satpute/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="https://stackoverflow.com/users/8185479/abhiram-satput%c3%a9"><img src="https://stackoverflow.com/users/flair/8185479.png?theme=dark" width="208" height="58" alt="profile for Abhiram Satput&#233; at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="More than 64K+ Profiles Reached as well!"></a>&nbsp;&nbsp;
+  <a href="https://stackoverflow.com/users/8185479/abhiram-satput%c3%a9"><img src="https://stackoverflow.com/users/flair/8185479.png?theme=dark" width="208" height="58" alt="profile for Abhiram Satput&#233; at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="More than 64K+ Profiles Reached as well!"/></a>&nbsp;&nbsp;
 <!--   <a href="https://stackoverflow.com/users/8185479/abhiram-satput%c3%a9" target="_blank">
     <img src="https://img.shields.io/badge/stackoverflow />        
   </a>&nbsp;&nbsp; -->
