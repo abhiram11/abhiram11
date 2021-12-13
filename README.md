@@ -47,14 +47,14 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Spotify Clone in React!](https://www.youtube.com/watch?v=jaBoEC1lNYQ)
+- [Tinder Clone App in React Native!](https://www.youtube.com/watch?v=PdPoZLLXtUY)
 - [TensorflowJS: Webcam Inputs, Training, and Prediction All in Browser](https://www.youtube.com/watch?v=BGfSsugl-_8)
 - [Netflix Clone in React!](https://www.youtube.com/watch?v=HXC1u8Jvjc4)
 - [SAR Game - A Car Racing Game using Python (PyGame)](https://www.youtube.com/watch?v=nMyUF5lCZDs)
-- [TFLite Object Detection Example in Android Application](https://www.youtube.com/watch?v=yRy7Z8eWq2c)
+- [Giving Kudos using Solidity (Ethereum, Web 3.0)](https://www.youtube.com/watch?v=sarcae80h04)
 <!-- YOUTUBE:END -->
 
-➡️ [more videos...](https://www.youtube.com/channel/UCfk8qjnhHsVTuygD9fwlx7g)
+➡️ [more videos on my Youtube Channel 📺](https://www.youtube.com/channel/UCfk8qjnhHsVTuygD9fwlx7g)
 
 
 <!-- <p align='center'> -->
