@@ -32,6 +32,9 @@
 </p>
 <br/>
 <br/>
+<p align='center'>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhiram11)](https://github.com/anuraghazra/github-readme-stats)
+  </p>
 <h2 align='center'>
   Sharing, whatever I learn, on these platforms -
 </h2>
