@@ -32,7 +32,9 @@
 </p>
 <br/>
 <br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhiram11&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhiram11&layout=compact&theme=buefy&hide_border=true" />
+
+<!-- <img src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhiram11&layout=compact)](https://github.com/anuraghazra/github-readme-stats)" /> -->
 <h2 align='center'>
   Sharing, whatever I learn, on these platforms -
 </h2>
