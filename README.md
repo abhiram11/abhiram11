@@ -30,10 +30,12 @@
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=abhiram11&show_icons=true&count_private=true&theme=dark" width="350"></a>
   <a href="#"><img src="https://media.giphy.com/media/62PP2yEIAZF6g/giphy.gif" width="241"></a>
 </p>
-<br/>
-<br/>
+<br>
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhiram11&layout=compact&theme=tokyonight&hide_border=true" />
+  <br>
+  <br>
+  
 </p>
 <!-- <img src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhiram11&layout=compact)](https://github.com/anuraghazra/github-readme-stats)" /> -->
 <h2 align='center'>
