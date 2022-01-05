@@ -32,9 +32,7 @@
 </p>
 <br/>
 <br/>
-<p align='center'>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhiram11)](https://github.com/anuraghazra/github-readme-stats)
-  </p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhiram11&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <h2 align='center'>
   Sharing, whatever I learn, on these platforms -
 </h2>
