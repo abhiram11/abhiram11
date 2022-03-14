@@ -74,27 +74,9 @@
 
 ➡️ [more videos on my Youtube Channel 📺](https://www.youtube.com/channel/UCfk8qjnhHsVTuygD9fwlx7g)
 
+<a href="https://www.buymeacoffee.com/abhiramsatpute" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+
 
 <!-- <p align='center'> -->
 
 ![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=abhiram11&repo=abhiram11countColorcountColor&countColor=%237B1E7A)
-
-<!-- [![Visits Badge](https://badges.pufler.dev/visits//abhiram11/abhiram11)](https://badges.pufler.dev) -->
-<!-- ![Visitor Count](https://profile-counter.glitch.me/abhiram11/count.svg) -->
-<!--   <a href="#"><img src="https://badges.pufler.dev/visits/abhiram11/abhiram11"></a> -->
-<!-- </p> -->
-
-<!--
-**abhiram11/abhiram11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
