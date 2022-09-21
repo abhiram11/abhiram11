@@ -4,7 +4,7 @@
   Abhiram Satpute</a> 👨‍💻
 </h1>
 <p align='center'>
-  Experienced Data Scientist, AWS Cloud Practitioner, and a budding Fullstack Developer! 🚀
+  Experienced Data Scientist, Certified AWS Cloud Practitioner, and a budding Fullstack Developer! 🚀
 </p>
 <p align='center'>
   Since 2016, I've been uploading Data Science, Full Stack, Game Dev, and many more projects here!👨‍💻👨🏽‍🔬🕸📲🎮
