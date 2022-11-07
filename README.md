@@ -58,7 +58,10 @@
     <img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" />        
   </a>&nbsp;&nbsp;
   <a href="https://github.com/abhiram11" target="_blank">
-    <img src="https://img.shields.io/badge/Github-grey.svg?&style=for-the-badge&logo=github&logoColor=white" />        
+    <img src="https://img.shields.io/badge/Github-grey.svg?&style=for-the-badge&logo=github&logoColor=white" />
+  </a>&nbsp;&nbsp;
+    <a href="https://abhiramsatpute.hashnode.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />
   </a>&nbsp;&nbsp;
 </p>
 
