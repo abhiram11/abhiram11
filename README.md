@@ -68,7 +68,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Fully-Automated CI/CD Pipeline Node App using Terraform, AWS, GitHub Actions ♻☁](https://www.youtube.com/watch?v=jhDv3G2nRNQ)
+- [Fully-Automated CI/CD Pipeline Node App using Terraform, AWS, GitHub Actions ♻🔁☁](https://www.youtube.com/watch?v=jhDv3G2nRNQ)
 - [Tinder Clone App in React Native! 💘](https://www.youtube.com/watch?v=PdPoZLLXtUY)
 - [(Hand-Sign Recognition) TensorflowJS: Webcam Inputs, Training, and Prediction All in Browser ✋🏻🖐🏻🤟🏻👌🏻](https://www.youtube.com/watch?v=BGfSsugl-_8)
 - [Netflix Clone in React! 📽🍿](https://www.youtube.com/watch?v=HXC1u8Jvjc4)
