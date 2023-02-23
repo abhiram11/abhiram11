@@ -4,7 +4,7 @@
   Abhiram Satpute</a> 👨‍💻
 </h1>
 <p align='center'>
-  Experienced Data Scientist, Certified AWS Cloud Practitioner, and a budding Fullstack Blockchain Developer! 🚀
+  I've done Open-Source Contribution to projects such as Facebook's React⚛, Hardhat👷🏻‍♂️, Wagmi💳, Lenstube📺, etc. <br/> along with many other impactful projects, check them below!<br/><br/>I am a budding Fullstack Blockchain Developer, an Experienced Data Scientist, and a Certified AWS Cloud Practitioner! 🚀
 </p>
 <p align='center'>
   Since 2016, I've been uploading Data Science, Full Stack, Game Dev, and many more projects here!👨‍💻👨🏽‍🔬🕸📲🎮
