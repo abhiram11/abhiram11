@@ -6,9 +6,7 @@
 <p align='center'>
   I've done Open-Source Contribution to projects such as Facebook's React⚛, Hardhat👷🏻‍♂️, Wagmi💳, Lenster🌿, Preact ⚛, Lenstube📺, etc. <br/> along with many other impactful projects, check them below!<br/><br/>I am a budding Fullstack Blockchain Developer, an Experienced Data Scientist, and a Certified AWS Cloud Practitioner! 🚀
 </p>
-<p align='center'>
-  Since 2016, I've been uploading Data Science, Full Stack, Game Dev, and many more projects here!👨‍💻👨🏽‍🔬🕸📲🎮
-</p><br>
+<br>
 
 <p align='center'>
  
@@ -16,9 +14,6 @@
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
   <a href="https://stackoverflow.com/users/8185479/abhiram-satput%c3%a9"><img src="https://stackoverflow.com/users/flair/8185479.png?theme=dark" width="208" height="58" alt="profile for Abhiram Satput&#233; at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="More than 115K+ Profiles Reached as well!"/></a>&nbsp;&nbsp;
-<!--   <a href="https://stackoverflow.com/users/8185479/abhiram-satput%c3%a9" target="_blank">
-    <img src="https://img.shields.io/badge/stackoverflow />        
-  </a>&nbsp;&nbsp; -->
   <a href="https://twitter.com/abhiram_satpute" target="_blank">
     <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />        
   </a>&nbsp;&nbsp;
