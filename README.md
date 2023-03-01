@@ -4,7 +4,7 @@
   Abhiram Satpute</a> 👨‍💻
 </h1>
 <p align='center'>
-  I've done Open-Source Contribution to projects such as Facebook's React⚛, Hardhat👷🏻‍♂️, Wagmi💳, Lenster🌿, Preact ⚛, Lenstube📺, etc. <br/> along with many other impactful projects, check them below!<br/><br/>I am a budding Fullstack Blockchain Developer, an Experienced Data Scientist, and a Certified AWS Cloud Practitioner! 🚀
+  I've done Open-Source Contribution to Facebook's React⚛, Hardhat👷🏻‍♂️, Wagmi💳, Lenster🌿, Preact ⚛, Lenstube📺, etc. <br/> along with many other impactful projects, check them below!<br/><br/>I'm a Fullstack/Blockchain Developer, an Experienced Data Scientist, and a Certified AWS CP who knows DevOps! 🚀
 </p>
 <br>
 
