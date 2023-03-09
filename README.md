@@ -4,7 +4,7 @@
   Abhiram Satpute</a> 👨‍💻
 </h1>
 <p align='center'>
-  I've done Open-Source Contribution to Facebook's React⚛, Hardhat👷🏻‍♂️, Wagmi💳, Lenster🌿, Preact ⚛, Lenstube📺, etc. <br/> along with many other impactful projects, check them below!<br/><br/>I'm a Fullstack/Blockchain Developer, an Experienced Data Scientist, and a Certified AWS CP who knows DevOps! 🚀
+  Open-Source Contribution to Facebook React⚛, Hardhat👷🏻‍♂️, Wagmi💳, Lenster🌿, Preact ⚛, Lenstube📺, etc. <br/><br/>Fullstack/Blockchain Developer, an Experienced Data Scientist, and a Certified AWS CP who blogs about DevOps! 🚀
 </p>
 <br>
 
@@ -64,11 +64,9 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Fully-Automated CI/CD Pipeline Node App using Terraform, AWS, GitHub Actions ♻🔁☁](https://www.youtube.com/watch?v=jhDv3G2nRNQ)
+- [Node.js App using Terraform, AWS, GitHub Actions and Docker ♻🔁☁](https://www.youtube.com/watch?v=jhDv3G2nRNQ)
 - [Tinder Clone App in React Native! 💘](https://www.youtube.com/watch?v=PdPoZLLXtUY)
-- [(Hand-Sign Recognition) TensorflowJS: Webcam Inputs, Training, and Prediction All in Browser ✋🏻🖐🏻🤟🏻👌🏻](https://www.youtube.com/watch?v=BGfSsugl-_8)
-- [Netflix Clone in React! 📽🍿](https://www.youtube.com/watch?v=HXC1u8Jvjc4)
-- [Giving Kudos using Solidity (Ethereum, Web 3.0) 🕸](https://www.youtube.com/watch?v=sarcae80h04)
+- [Dockerized Node.js App hosted to AWS EC2 using ECS and ECR](https://www.youtube.com/watch?v=-zMZF-MCIvc)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos on my Youtube Channel 📺](https://www.youtube.com/channel/UCfk8qjnhHsVTuygD9fwlx7g)
