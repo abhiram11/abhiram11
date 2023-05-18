@@ -1,5 +1,5 @@
 <h1 align='center'>
-  Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px" height="29px">,  I'm   <a href="https://abhiramsatpute.vercel.app" target="_blank">
+  Hey 👋🏻,  I'm   <a href="https://abhiramsatpute.vercel.app" target="_blank">
   Abhiram Satpute</a> 👨‍💻
 </h1>
 <p align='center'>
