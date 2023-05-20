@@ -84,4 +84,4 @@
 
 ![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=abhiram11&repo=abhiram11countColorcountColor&countColor=%237B1E7A)
 
-- Download my Resume [HERE](https://drive.google.com/file/d/1JqKEIwP8hu5im9YbT0-ebo6h1oU1Zybu/view?usp=sharing)
+- Download my Resume [HERE](https://docs.google.com/document/d/1kJ-20cEizjXI6Xw5eiCuwcIAYWzAsQ3aQWu1QlRPAFY/edit?usp=sharing)
