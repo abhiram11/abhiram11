@@ -20,10 +20,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" width="60" height="60"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="60" height="60"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="60" height="60" />
-<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="40" height="40"/> -->
-<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40"/> -->
-<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="40" height="40"/> -->
-
 
   <br>
   <br>
@@ -32,9 +28,8 @@
 
 <p align='center'>
   <a href="#"><img src="https://abhiram11.github.io/images/name-sketch-crop.gif" width="185"></a>
-<!--   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abhiram11theme=dark&hide_border=true)](https://git.io/streak-stats) -->
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=abhiram11&show_icons=true&count_private=true&theme=dark" width="350"></a>
-  <a href="#"><img src="https://media.giphy.com/media/62PP2yEIAZF6g/giphy.gif" width="241"></a>
+  <a href="#"><img src="https://drive.google.com/file/d/1vomiKPT8QVjOIUBwa4F2JNQ5D12Ojlpu/view?usp=sharing" width="241"></a>
 </p>
 <br>
 
@@ -51,7 +46,6 @@
 </p>
 <br>
 
-<!-- <img src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhiram11&layout=compact)](https://github.com/anuraghazra/github-readme-stats)" /> -->
 <h2 align='center'>
   Sharing, whatever I learn, on these platforms -
 </h2>
