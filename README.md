@@ -27,9 +27,10 @@
 </p>
 
 <p align='center'>
-  <a href="#"><img src="https://abhiram11.github.io/images/name-sketch-crop.gif" width="185"></a>
+<!--   <a href="#"><img src="https://abhiram11.github.io/images/name-sketch-crop.gif" width="185"></a> -->
+  <a href="#"><img src="https://abhiram11.github.io/images/Titan4.jpg" width="300"></a>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=abhiram11&show_icons=true&count_private=true&theme=dark" width="350"></a>
-  <a href="#"><img src="https://drive.google.com/file/d/1vomiKPT8QVjOIUBwa4F2JNQ5D12Ojlpu/view?usp=sharing" width="241"></a>
+  <a href="#"><img src="https://abhiram11.github.io/images/IIMCIP.jpg" width="350"></a>
 </p>
 <br>
 
@@ -61,7 +62,7 @@
   </a>&nbsp;&nbsp;
 </p>
 
-### 📺 Latest YouTube Videos
+ 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
 - [Node.js App using Terraform, AWS, GitHub Actions and Docker ♻🔁☁](https://www.youtube.com/watch?v=jhDv3G2nRNQ)
@@ -72,10 +73,8 @@
 ➡️ [more videos on my Youtube Channel 📺](https://www.youtube.com/channel/UCfk8qjnhHsVTuygD9fwlx7g)
 
 <a href="https://www.buymeacoffee.com/abhiramsatpute" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+<!-- Not working? -->
+<!-- ![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=abhiram11&repo=abhiram11countColorcountColor&countColor=%237B1E7A) -->
 
-
-<!-- <p align='center'> -->
-
-![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=abhiram11&repo=abhiram11countColorcountColor&countColor=%237B1E7A)
-
-- Download my Resume [HERE](https://drive.google.com/file/d/1YfaLOi4PuAdz_80h6b-5wedPaJWJQ9Dw/view?usp=sharing)
+### Download my Resume [HERE](https://drive.google.com/file/d/1YfaLOi4PuAdz_80h6b-5wedPaJWJQ9Dw/view?usp=sharing) 👨🏻‍💻📃
+<!-- , yours truly, <a href="#"><img src="https://abhiram11.github.io/images/name-sketch-crop.gif" width="185"></a> -->
