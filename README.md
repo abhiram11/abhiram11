@@ -29,7 +29,7 @@
 <p align='center'>
 <!--   <a href="#"><img src="https://abhiram11.github.io/images/name-sketch-crop.gif" width="185"></a> -->
   <a href="#"><img src="https://abhiram11.github.io/images/Titan4.jpg" width="240"></a>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=abhiram11&show_icons=true&count_private=true&theme=dark" width="350"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=abhiram11&show_icons=true&count_private=true&theme=dark" width="300"></a>
   <a href="#"><img src="https://abhiram11.github.io/images/IIMCIP.jpg" width="280"></a>
 </p>
 <br>
