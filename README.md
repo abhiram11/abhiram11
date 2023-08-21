@@ -3,7 +3,7 @@
   Abhiram Satpute</a> 👨‍💻
 </h1>
 <p align='center'>
-  Open-Source Contributor to Facebook React⚛, Hardhat👷🏻‍♂️, Wagmi💳, Lenster🌿, Preact ⚛, Lenstube📺, etc. <br/><br/>Fullstack/Blockchain Developer, an Experienced Data Scientist, and a Certified AWS CP who blogs about DevOps! 🚀
+  Open-Source Contributor to Facebook React⚛, Hardhat👷🏻‍♂️, Wagmi💳, Helm ☸, Lenster🌿, Preact ⚛, Lenstube📺, etc. <br/><br/>Fullstack/Blockchain Developer, an Experienced Data Scientist, and a Certified AWS CP who blogs about DevOps! 🚀
 </p>
 <br>
 
