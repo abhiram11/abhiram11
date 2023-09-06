@@ -7,7 +7,7 @@
 </p>
 <br><br>
 <p align='center'>
-## Download my Resume [HERE](https://drive.google.com/file/d/1nQdfWSMjnrOX19phaeiYwzwxbKGbw908/view?usp=sharing) 👨🏻‍💻📃
+Download my Resume <a href="https://drive.google.com/file/d/1nQdfWSMjnrOX19phaeiYwzwxbKGbw908/view?usp=sharing"> HERE 👨🏻‍💻📃 </a>
 </p>
 <br>
 
