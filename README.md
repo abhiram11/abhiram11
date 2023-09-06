@@ -5,7 +5,7 @@
 <p align='center'>
   Open-Source Contributor to Facebook React⚛, Hardhat👷🏻‍♂️, Wagmi💳, Helm ☸, Lenster🌿, Preact ⚛, Lenstube📺, etc. <br/><br/>Fullstack/Blockchain Developer, an Experienced Data Scientist, and a Certified AWS CP who blogs about DevOps! 🚀
 </p>
-<br><br>
+<br>
 <p align='center'>
 Download my Resume <a href="https://drive.google.com/file/d/1nQdfWSMjnrOX19phaeiYwzwxbKGbw908/view?usp=sharing"> HERE 👨🏻‍💻📃 </a>
 </p>
