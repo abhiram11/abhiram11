@@ -1,6 +1,7 @@
+<!DOCTYPE html>
 <h1 align='center'>
-  Hey 👋🏻,  I'm   <a href="https://abhiramsatpute.vercel.app" target="_blank">
-  Abhiram Satpute</a> 👨‍💻
+  Hey 👋🏻,  I'm
+  <a href="https://abhiramsatpute.vercel.app" target="_blank"> Abhiram Satpute </a> 👨‍💻
 </h1>
 <p align='center'>
   Open-Source Contributor to Facebook React⚛, Hardhat👷🏻‍♂️, Wagmi💳, Helm ☸, Lenster🌿, Preact ⚛, Lenstube📺, etc. <br/><br/>Fullstack/Blockchain Developer, an Experienced Data Scientist, and a Certified AWS CP who blogs about DevOps! 🚀
