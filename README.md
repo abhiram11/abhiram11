@@ -4,10 +4,11 @@
   <a href="https://abhiramsatpute.vercel.app" target="_blank"> Abhiram Satpute </a> 👨‍💻
 </h1>
 <p align='center'>
-  Open-Source Contributor to Facebook React⚛, Hardhat👷🏻‍♂️, Wagmi💳, Helm ☸, Lenster🌿, Preact ⚛, Lenstube📺, etc. <br/><br/>Fullstack/Blockchain Developer, an Experienced Data Scientist, and a Certified AWS CP who blogs about DevOps! 🚀
+  Open-Source Contributor to Facebook React⚛, Hardhat👷🏻‍♂️, Wagmi💳, Helm ☸, Preact ⚛, Tape📺 and Hey🌿, etc. 
+  <br/><br/>🚀 Full Stack and Mobile | Blockchain and Web3 | Experienced Data Scientist | Certified AWS and DevOps 🚀
 </p>
 <p align='center'>
-👉🏻👉🏻 Download my Resume <a href="https://drive.google.com/file/d/1nQdfWSMjnrOX19phaeiYwzwxbKGbw908/view?usp=sharing" target="_abhi" rel="noreferrer"> HERE 👨🏻‍💻📃 </a> 👈🏻👈🏻
+👉🏻🔎 Find my Resume <a href="https://drive.google.com/file/d/1nQdfWSMjnrOX19phaeiYwzwxbKGbw908/view?usp=sharing" target="_abhi" rel="noreferrer"> HERE 👨🏻‍💻📃 </a> 🔍👈🏻
 </p>
 <br>
 
