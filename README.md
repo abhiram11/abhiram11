@@ -78,6 +78,3 @@
 ➡️ [more videos on my Youtube Channel 📺](https://www.youtube.com/channel/UCfk8qjnhHsVTuygD9fwlx7g)
 
 <a href="https://www.buymeacoffee.com/abhiramsatpute" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
-<!-- Not working? -->
-<!-- ![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=abhiram11&repo=abhiram11countColorcountColor&countColor=%237B1E7A) -->
-<!-- , yours truly, <a href="#"><img src="https://abhiram11.github.io/images/name-sketch-crop.gif" width="185"></a> -->
