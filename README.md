@@ -33,8 +33,8 @@
 </p>
 
 <p align='center'>
-  <a href="#"><img src="https://abhiram11.github.io/images/Titan4.jpg" width="380"></a>&nbsp;&nbsp;
-  <a href="#"><img src="https://abhiram11.github.io/images/IIMCIP.jpg" width="440"></a>
+  <a href="#"><img src="https://abhiram11.github.io/images/Titan4.jpg" width="380" alt="Represented Statup at Titan TTI"></a>&nbsp;&nbsp;
+  <a href="#"><img src="https://abhiram11.github.io/images/IIMCIP.jpg" alt="IIM Calcutta; Incubation Programme"width="440"></a>
 </p>
 <br>
 
