@@ -1,29 +1,34 @@
 <!DOCTYPE html>
 <h1 align='center'>
-  Hey 👋🏻,  I'm
-  <a href="https://abhiramsatpute.vercel.app" target="_blank"> Abhiram Satpute </a> 👨‍💻
+  Hey 👋🏻,  I'm Abhiram Satpute 👨‍💻
+  <!-- <a href="https://abhiramsatpute.vercel.app" target="_blank"> Abhiram Satpute </a> 👨‍💻 -->
 </h1>
 <p align='center'>
-  🚀 Full Stack and Mobile Apps | Blockchain and Web3 | Experienced Data Scientist | Certified AWS and DevOps 🚀
+  🚀 Blockchain and Web3 Engineer | Full Stack and Mobile Apps | Experienced Data Scientist | Certified AWS and DevOps 🚀
   <br/><br/>
   Open-Source Contributor to Facebook React⚛, Hardhat👷🏻‍♂️, Wagmi💳, Helm ☸, Preact ⚛, Tape📺 and Hey🌿, etc.
 </p>
 <p align='center'>
-👉🏻🔎 Find my Resume <a href="https://drive.google.com/file/d/1nQdfWSMjnrOX19phaeiYwzwxbKGbw908/view?usp=sharing" target="_abhi" rel="noreferrer"> HERE 👨🏻‍💻📃 </a> 🔍👈🏻
+👉🏻🔎&emsp;&emsp; Find my Resume <a href="https://drive.google.com/file/d/1rCaa-iXYPYFUfU27WBffMMpDWBaJ0bQZ/view?usp=sharing" target="_abhi" rel="noreferrer">HERE</a>&emsp;&emsp; 🔍👈🏻
 </p>
 <br>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript" />
+  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript" /> -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" width="50" height="50" alt="Rust"/>        
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="50" height="50" alt="GO/GoLang"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" width="60" height="60" alt="Solidity"/>  
+
   
   
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhiram11&layout=compact&theme=tokyonight&hide_border=true" />
 
+
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50" height="50" alt="NextJS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" alt="React"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original-wordmark.svg" width="50" height="50" alt="Kubernetes" />        
+   <!--  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" alt="React"/>  -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="60" height="60" alt="Terraform"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="60" height="60" alt="AWS" />
 
@@ -44,6 +49,25 @@
   <a href="#"><img src="https://abhiram11.github.io/images/name-sketch-crop.gif" height="130" width="240"></a>
 </p>
 <br>
+
+ ✍🏻 Latest Tech Blogs
+ - [Diving Deeper into Kubernetes 🤿](https://abhiramsatpute.hashnode.dev/diving-deeper-into-kubernetes)
+ - [Understanding Various Deployment Strategies](https://abhiramsatpute.hashnode.dev/different-deployment-strategies-big-bang-blue-green-rolling-canary)
+ - [Potentially 3x your Node App Performance using Threads](https://abhiramsatpute.hashnode.dev/3x-your-node-app-performance-using-threads)
+ - [Supercharge your Application Quality, Security, and Productivity](https://abhiramsatpute.hashnode.dev/supercharge-your-applications-quality-security-productivity-and-dx-with-github-marketplace)
+
+➡️ [more blogs on my Hashnode Profile](https://abhiramsatpute.hashnode.dev/)
+
+ 📺 Latest YouTube Project DEMOS
+
+<!-- YOUTUBE:START -->
+- [Node.js App using TERRAFORM, AWS, GitHub Actions and Docker ♻🔁☁](https://www.youtube.com/watch?v=jhDv3G2nRNQ)
+- [Tinder Clone App in React Native! 💘](https://www.youtube.com/watch?v=PdPoZLLXtUY)
+- [Dockerized Node.js App hosted to AWS EC2 using ECS and ECR](https://www.youtube.com/watch?v=-zMZF-MCIvc)
+<!-- YOUTUBE:END -->
+
+➡️ [more videos on my Youtube Channel 📺](https://www.youtube.com/channel/UCfk8qjnhHsVTuygD9fwlx7g)
+
 
 <h2 align='center'>
   Sharing, whatever I learn, on these platforms -
@@ -66,14 +90,5 @@
   </a>&nbsp;&nbsp;
 </p>
 
- 📺 Latest YouTube Project DEMOS
-
-<!-- YOUTUBE:START -->
-- [Node.js App using TERRAFORM, AWS, GitHub Actions and Docker ♻🔁☁](https://www.youtube.com/watch?v=jhDv3G2nRNQ)
-- [Tinder Clone App in React Native! 💘](https://www.youtube.com/watch?v=PdPoZLLXtUY)
-- [Dockerized Node.js App hosted to AWS EC2 using ECS and ECR](https://www.youtube.com/watch?v=-zMZF-MCIvc)
-<!-- YOUTUBE:END -->
-
-➡️ [more videos on my Youtube Channel 📺](https://www.youtube.com/channel/UCfk8qjnhHsVTuygD9fwlx7g)
 
 <a href="https://www.buymeacoffee.com/abhiramsatpute" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
